@@ -25,7 +25,7 @@
 		<jfreechart-version>1.0.15</jfreechart-version>
 		<commons-csv-version>1.4</commons-csv-version>
 		<commons-math-version>3.6.1</commons-math-version>
-		<commons-io-version>2.5</commons-io-version>
+		<commons-io-version>2.7</commons-io-version>
 	</properties>
 
 	<build>
